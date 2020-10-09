@@ -1,9 +1,5 @@
 <?php
-	/*-------------------------
-	Autor: Obed Alvarado
-	Web: obedalvarado.pw
-	Mail: info@obedalvarado.pw
-	---------------------------*/
+	
 	session_start();
 	if (!isset($_SESSION['user_login_status']) AND $_SESSION['user_login_status'] != 1) {
         header("location: login.php");
@@ -62,7 +58,7 @@
 	include("navbar.php");
 	?>  
     <div class="container">
-	<div class="panel panel-info">
+	<div class="panel panel-warning">
 		<div class="panel-heading">
 			<h4><i class='glyphicon glyphicon-edit'></i> Editar Factura</h4>
 		</div>

@@ -1,7 +1,7 @@
 <div class="navbar navbar-default navbar-fixed-bottom">
     <div class="container">
       <p class="navbar-text pull-left">&copy <?php echo date('Y');?> - Desarrollo Web.
-           <a href="http://obedalvarado.pw/" target="_blank" style="color: #ecf0f1">Proyecto Final</a>
+           <a  target="_blank" style="color: #ecf0f1">Proyecto Final</a>
       </p>
    </div>
 </div>

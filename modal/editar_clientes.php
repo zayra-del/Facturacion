@@ -56,8 +56,8 @@
 			
 		  </div>
 		  <div class="modal-footer">
-			<button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
-			<button type="submit" class="btn btn-primary" id="actualizar_datos">Actualizar datos</button>
+			<button type="button" class="btn btn-outline-warning" data-dismiss="modal">Cerrar</button>
+			<button type="submit" class="btn btn-warning" id="actualizar_datos">Actualizar datos</button>
 		  </div>
 		  </form>
 		</div>
